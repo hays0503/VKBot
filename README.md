@@ -1,5 +1,6 @@
 # VKBot for social web site vk.com
-[Github](https://github.com/hays0503/VKBot) repository
+
+*[Github](https://github.com/hays0503/VKBot) repository*
 
 Bot features
 ---------------------
@@ -15,7 +16,9 @@ To deploy the bot used hosting [Heroku](https://heroku.com) as well as their dat
 
 
 # VKBot для социальной сети вконтакте
-[Github](https://github.com/hays0503/VKBot) репозиторий
+
+*[Github](https://github.com/hays0503/VKBot) репозиторий*
+
 Возможности бота
 ---------------------
 * Скачивание артов и постинг их в группу
