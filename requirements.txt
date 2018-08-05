@@ -1,0 +1,7 @@
+requests
+vk
+gallery-dl
+psycopg2
+APScheduler==3.0.0
+BeautifulSoup4
+psycopg2-binary
