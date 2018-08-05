@@ -7,7 +7,7 @@ Bot features
 * Action Planner
 * Hashing art in the database to prevent duplicates
 
-To deploy the bot used hosting [Heroku] (https://heroku.com) as well as their database [postgreSQL] (https://data.heroku.com)
+To deploy the bot used hosting [Heroku](https://heroku.com) as well as their database [postgreSQL](https://data.heroku.com)
 
 [Doxygen documentation](https://hays0503.github.io/VKBot/html/index.html)
 
