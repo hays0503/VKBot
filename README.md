@@ -3,7 +3,9 @@
 *[Github](https://github.com/hays0503/VKBot) repository*
 
 Bot features
+
 ---------------------
+
 * Downloading artworks and posting them to the group
 * Creation of voting on subjects
 * Creating posts on the topic
@@ -20,7 +22,9 @@ To deploy the bot used hosting [Heroku](https://heroku.com) as well as their dat
 *[Github](https://github.com/hays0503/VKBot) репозиторий*
 
 Возможности бота
+
 ---------------------
+
 * Скачивание артов и постинг их в группу
 * Создание голосования по тематикам
 * Создание постов по темам на основе голосования
