@@ -1,6 +1,5 @@
-# VKBot
-##VKBot for social web site vk.com
-Bot features
+# VKBot for social web site vk.com
+##Bot features
 * Downloading artworks and posting them to the group
 * Creation of voting on subjects
 * Creating posts on the topic
