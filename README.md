@@ -2,7 +2,7 @@
 
 *[Github](https://github.com/hays0503/VKBot) repository*
 
-Bot features
+## Bot features
 
 ---------------------
 
@@ -21,7 +21,7 @@ To deploy the bot used hosting [Heroku](https://heroku.com) as well as their dat
 
 *[Github](https://github.com/hays0503/VKBot) репозиторий*
 
-Возможности бота
+## Возможности бота
 
 ---------------------
 
